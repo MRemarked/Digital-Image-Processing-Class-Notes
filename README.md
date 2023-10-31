@@ -4,4 +4,4 @@ Lecture 01: [Digital Image Modalities and Processing](Digital-Image-Processing-C
 
 Lecture 02: The Human Visual System, perception, and color; [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_02;_The_Human_visual_system,_perception,_and_color_part1.pdf) and [Part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_02;_The_Human_visual_system,_perception,_and_color_part2.pdf)
 
-Lecture 03: Image aquisition and sensing [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_03;_Image_aquisition_and_sensing_part1.pdf)
+Lecture 03: Image aquisition and sensing [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_03;_Image_aquisition_and_sensing_part1.pdf) and [Part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_03;_Image_aquisition_and_sensing_part2.pdf)
