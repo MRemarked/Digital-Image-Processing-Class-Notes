@@ -8,3 +8,5 @@ Lecture 03: Image aquisition and sensing [Part 1](Digital-Image-Processing-Class
 
 Lecture 04: [Histograms and point operations](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_04;_Histograms_and_point_operations.pdf)
 
+Lecture 05: Geometric Operations [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_05;_Geometric_Operations_part1.pdf)
+
