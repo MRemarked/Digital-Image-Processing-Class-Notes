@@ -10,3 +10,7 @@ Lecture 04: [Histograms and point operations](Digital-Image-Processing-Class-Not
 
 Lecture 05: Geometric Operations [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_05;_Geometric_Operations_part1.pdf) and [Part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_05;_Geometric_Operations_part2.pdf)
 
+Lecture 06: [Spatial Filters](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_06;_Spatial_Filters.pdf)
+
+
+
