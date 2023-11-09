@@ -12,5 +12,5 @@ Lecture 05: Geometric Operations [Part 1](Digital-Image-Processing-Class-Notes/I
 
 Lecture 06: [Spatial Filters](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_06;_Spatial_Filters.pdf)
 
-
+Lecture 07: [The 2D Discrete Fourier Transform](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_07;_The_2D_Discrete_Fourier_Transform.pdf)
 
