@@ -14,3 +14,5 @@ Lecture 06: [Spatial Filters](Digital-Image-Processing-Class-Notes/Intro_to_Digi
 
 Lecture 07: [The 2D Discrete Fourier Transform](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_07;_The_2D_Discrete_Fourier_Transform.pdf)
 
+Lecture 08: [Frequency Domain Filtering: Sampling and Aliasing](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_08;_Frequency_Domain_Filtering;_Sampling_and_Aliasing.pdf)
+
