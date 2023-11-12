@@ -16,3 +16,5 @@ Lecture 07: [The 2D Discrete Fourier Transform](Digital-Image-Processing-Class-N
 
 Lecture 08: [Frequency Domain Filtering: Sampling and Aliasing](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_08;_Frequency_Domain_Filtering;_Sampling_and_Aliasing.pdf)
 
+Lecture 09: Unitary Image Transforms [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_09;_Unitary_Image_Transformspart1.pdf)
+
