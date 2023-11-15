@@ -18,3 +18,5 @@ Lecture 08: [Frequency Domain Filtering: Sampling and Aliasing](Digital-Image-Pr
 
 Lecture 09: Unitary Image Transforms [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_09;_Unitary_Image_Transformspart1.pdf) and [Part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_09;_Unitary_Image_Transformspart2.pdf)
 
+Lecture 10: [Edge Detection](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_10;_Edge_Detection.pdf)
+
