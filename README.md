@@ -20,3 +20,5 @@ Lecture 09: Unitary Image Transforms [Part 1](Digital-Image-Processing-Class-Not
 
 Lecture 10: [Edge Detection](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_10;_Edge_Detection.pdf)
 
+Lecture 11; Edge Linking and Line Dectection [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_11;_Edge_Linking_and_Line_Detectionpart1.pdf)
+
