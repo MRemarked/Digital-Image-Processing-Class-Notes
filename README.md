@@ -22,3 +22,5 @@ Lecture 10: [Edge Detection](Digital-Image-Processing-Class-Notes/Intro_to_Digit
 
 Lecture 11; Edge Linking and Line Dectection [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_11;_Edge_Linking_and_Line_Detectionpart1.pdf) and [Part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_11;_Edge_Linking_and_Line_Detectionpart2.pdf)
 
+Lecture 12 [Thresholding](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_12;_Thresholding.pdf)
+
