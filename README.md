@@ -24,5 +24,7 @@ Lecture 11; Edge Linking and Line Dectection [Part 1](Digital-Image-Processing-C
 
 Lecture 12 [Thresholding](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_12;_Thresholding.pdf)
 
+Lecture 13: Morphological Image Processing [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_13;_Morphological_Image_Processingpart1.pdf)
+
 Lecture 14 [Object and Feature Detection (in class)](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_14;_Object_and_Feature_Detection_(in_Class).pdf)
 
