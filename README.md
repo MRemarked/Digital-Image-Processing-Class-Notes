@@ -26,5 +26,8 @@ Lecture 12 [Thresholding](Digital-Image-Processing-Class-Notes/Intro_to_Digital_
 
 Lecture 13: Morphological Image Processing [Part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_13;_Morphological_Image_Processingpart1.pdf) and [Part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_13;_Morphological_Image_Processingpart2.pdf)
 
-Lecture 14 [Object and Feature Detection (in class)](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_14;_Object_and_Feature_Detection_(in_Class).pdf)
+Lecture 14: [Object and Feature Detection (in class)](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_14;_Object_and_Feature_Detection_(in_Class).pdf)
+
+Lecture 15: [Lossless Image Coding](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_15;_Lossless_Image_Coding.pdf)
+
 
