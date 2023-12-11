@@ -30,4 +30,6 @@ Lecture 14: [Object and Feature Detection (in class)](Digital-Image-Processing-C
 
 Lecture 15: [Lossless Image Coding](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_15;_Lossless_Image_Coding.pdf)
 
+Lecture 16: [Lossy Image Compression (incomplete)](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_16;_Lossy_Image_Compression_(Incomplete).pdf)
+
 
