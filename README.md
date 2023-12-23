@@ -32,12 +32,12 @@ Lecture 15: [Lossless Image Coding](Digital-Image-Processing-Class-Notes/Intro_t
 
 Lecture 16: [Lossy Image Compression (incomplete)](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_16;_Lossy_Image_Compression_(Incomplete).pdf)
 
-Lecture 17: Image Restoration and the Wiener Filter (In Class) [part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_17;_Image_Restoration_and_the_Wiener_Filter_(In_Class)part1.pdf) and [part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_17;_Image_Restoration_and_the_Wiener_Filter_(In_Class)part2.pdf) and [part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_18;_Reconstruction_and_Parallel_Projection_and_the_Radon_Transform_(In_Class)part2.pdf)
+Lecture 17: Image Restoration and the Wiener Filter (In Class) [part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_17;_Image_Restoration_and_the_Wiener_Filter_(In_Class)part1.pdf) and [part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_17;_Image_Restoration_and_the_Wiener_Filter_(In_Class)part2.pdf) 
 
 
 
+Lecture 18: Reconstruction and Parallel Projection and the Radon Transform [part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_18;_Reconstruction_and_Parallel_Projection_and_the_Radon_Transform_(In_Class)part1.pdf) and [part 2](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_18;_Reconstruction_and_Parallel_Projection_and_the_Radon_Transform_(In_Class)part2.pdf)
 
-Lecture 18: Reconstruction and Parallel Projection and the Radon Transform [part 1](Digital-Image-Processing-Class-Notes/Intro_to_Digital_Image_Processing_Lecture_18;_Reconstruction_and_Parallel_Projection_and_the_Radon_Transform_(In_Class)part1.pdf)
 
 
 
